@@ -37,10 +37,15 @@ body{
 .menu a{
     text-decoration: none;
     align-items: center;
-    margin: 0 3px;
     padding: 10px 25px;
     background-color: orange;
     color: white;
+    font-weight: 600;
+    
+}
+.menu a:hover{
+    background: white;
+    color: black;
 }
 
 
@@ -50,7 +55,7 @@ body{
 
 
 .top{
-    margin-top: 60px;
+    margin-top: 20px;
 }
 .left h1{
     font-size:60px;
