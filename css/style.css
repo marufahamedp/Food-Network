@@ -209,6 +209,8 @@ body{
     margin-bottom: 70px;
     line-height: 32px;
 }
+
+/* Contact-section start */
 .contact-me{
     margin-bottom: 100px;
 }
@@ -227,6 +229,7 @@ body{
 .all{
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.2);
     padding: 50px 0;
+    border-radius: 20px;
 }
 .all label{
     font-size: 18px;
@@ -253,26 +256,29 @@ textarea{
     box-shadow: 0px 3px 30px #fc8f4980;
 }
 .left-contact{
-    width: 50%;
+    width: 60%;
 }
 .left-contact img{
-    width: 40%;
+    width: 50%;
     border-radius: 50%;
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
 }
 .imgg h1{
     color: black;
-    margin-left: 100px;
+    margin-left: 40px;
 }
 .imgg address{
     text-align: justify;
-    margin-left: 100px;
+    margin-left: 40px;
 }
+
+/* Contact-section End */
+
 /* Bonus-Salad End */
 
 /* Footer Start */
 .footer{
-    height: 256px;
+    height: 200px;
     background-color: #0B0D17;
     display: flex;
     align-items: center;
