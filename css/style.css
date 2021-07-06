@@ -29,6 +29,23 @@ body{
 /* Necessary End*/
 
 
+.menu{
+    justify-content: center;
+    background-color: orange;
+}
+
+.menu a{
+    text-decoration: none;
+    align-items: center;
+    margin: 0 3px;
+    padding: 10px 25px;
+    background-color: orange;
+    color: white;
+}
+
+
+
+
 /* Top start */
 
 
